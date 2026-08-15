@@ -108,3 +108,74 @@ A web-based nursery management and shopping system designed to manage plants, cu
 ║  📈 IMPROVE     →  Grow as a developer every day        ║
 ║                                                          ║
 ╚══════════════════════════════════════════════════════════╝
+# 🔥 Development Philosophy
+
+Consistency is more important than perfection. Small improvements every day create strong results over time.
+
+```text
+LEARN  →  PRACTICE  →  BUILD  →  DEBUG  →  IMPROVE  →  REPEAT
+```
+
+---
+
+# 🎯 Current Goals
+
+```text
+✓ Strengthen HTML and CSS skills
+✓ Build responsive frontend projects
+✓ Improve problem-solving skills
+✓ Start learning JavaScript
+○ Master JavaScript concepts
+○ Learn React.js
+○ Complete the MERN Stack
+○ Build strong real-world projects
+○ Become fully interview-ready
+○ Start my professional career as a developer
+```
+
+---
+
+# 💻 My Developer Journey
+
+```text
+        💡 IDEA
+           ↓
+        📚 LEARN
+           ↓
+        ⌨️ CODE
+           ↓
+        🐛 DEBUG
+           ↓
+        🚀 BUILD
+           ↓
+        📈 IMPROVE
+           ↓
+        🔁 REPEAT
+```
+
+---
+
+# 🤝 Connect With Me
+
+```text
+📸 Instagram  →  @rushiibodke
+💼 LinkedIn   →  Rushikesh Bodake
+🧵 Threads    →  @rushiibodke
+```
+
+---
+
+# 💭 Developer Quote
+
+```text
+"The journey of a developer is not about knowing everything —
+ it's about never stopping learning."
+```
+
+---
+
+```text
+⭐ Thanks for visiting my profile!
+
+Building today. Learning every day. Growing for tomorrow. 🚀
+```
