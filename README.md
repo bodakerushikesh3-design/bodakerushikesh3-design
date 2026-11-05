@@ -37,10 +37,12 @@ I’ve collected seven completed web projects in one place. Each project folder 
 | Project | What it is | Source |
 | --- | --- | --- |
 | AutoWash | Car wash service website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/Autowash) |
+| Cartzilla | E-commerce shopping website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/Cartzilla) |
 | Cuda | Creative agency landing page | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/Cuda) |
+| D-Mart | Online grocery shopping website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/D-Mart) |
 | E-commerce Shopping | Online shopping website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/ecommerce-shopping) |
 | Gymso Fitness | Fitness studio website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/Gymtso-Fitnesss) |
-| Kids Website | Children’s website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/kids%20website/kids%20website) |
+| Kids Website | Children's website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/kids%20website/kids%20website) |
 | SevenMentor | Institute website | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/sevenmentor) |
 | The 7 | Website project | [View project](https://github.com/bodakerushikesh3-design/rushikesh-projects/tree/main/The%207) |
 
