@@ -6,7 +6,7 @@
 
 I enjoy turning ideas into clean, responsive web experiences. I’m learning, building, and improving one project at a time.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://pixel-perfect-playback-45.lovable.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=github&logoColor=white)](https://bodakerushikesh3-design.github.io/)
 [![Projects](https://img.shields.io/badge/Projects-Explore-6D5EF5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bodakerushikesh3-design/rushikesh-projects)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rushikesh-bodake-98439a2a8/)
 
